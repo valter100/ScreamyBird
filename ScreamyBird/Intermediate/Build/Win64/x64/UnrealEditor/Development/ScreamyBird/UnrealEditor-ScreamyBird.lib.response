@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ScreamyBird.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\valte\Desktop\Projekt\ScreamyBird\ScreamyBird\Intermediate\Build\Win64\x64\ScreamyBirdEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\valte\Desktop\Projekt\ScreamyBird\ScreamyBird\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreamyBird\ScreamyBird.init.gen.cpp.obj"
+"C:\Users\valte\Desktop\Projekt\ScreamyBird\ScreamyBird\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreamyBird\ScreamyBirdGameModeBase.gen.cpp.obj"
+"C:\Users\valte\Desktop\Projekt\ScreamyBird\ScreamyBird\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreamyBird\ScreamyBird.cpp.obj"
+"C:\Users\valte\Desktop\Projekt\ScreamyBird\ScreamyBird\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreamyBird\ScreamyBirdGameModeBase.cpp.obj"
+"C:\Users\valte\Desktop\Projekt\ScreamyBird\ScreamyBird\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreamyBird\Default.rc2.res"
+/OUT:"C:\Users\valte\Desktop\Projekt\ScreamyBird\ScreamyBird\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScreamyBird\UnrealEditor-ScreamyBird.lib"

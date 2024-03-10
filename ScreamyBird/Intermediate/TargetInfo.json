@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ScreamyBird",
+			"Path": "C:\\Users\\valte\\Desktop\\Projekt\\ScreamyBird\\ScreamyBird\\Source\\ScreamyBird.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ScreamyBirdEditor",
+			"Path": "C:\\Users\\valte\\Desktop\\Projekt\\ScreamyBird\\ScreamyBird\\Source\\ScreamyBirdEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

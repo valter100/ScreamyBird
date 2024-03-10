@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\valte\\desktop\\projekt\\screamybird\\screamybird\\source\\screamybird\\screamybird.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\valte\\desktop\\projekt\\screamybird\\screamybird\\intermediate\\build\\win64\\x64\\screamybirdeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\valte\\desktop\\projekt\\screamybird\\screamybird\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\screamybird\\definitions.screamybird.h",
+            "c:\\users\\valte\\desktop\\projekt\\screamybird\\screamybird\\source\\screamybird\\screamybird.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
